@@ -30,7 +30,7 @@ test('Handle Dynamic Elements using XPath', async ({ page }) => {
 
 
 
-/*
+
 test('Handle Dynamic Elements using PW Locators', async ({ page }) => {
 
   await page.goto('https://testautomationpractice.blogspot.com/');
@@ -47,7 +47,7 @@ test('Handle Dynamic Elements using PW Locators', async ({ page }) => {
     await page.waitForTimeout(2000);
   }
 });
-*/
+
 
 
 //Using CSS Locator
